@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+build/
+dist/
+
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+
+# Packaged binaries and signing material
+*.exe
+*.pdb
+*.pfx
+*.cer
+*.snk
+
+# IDE and local tooling
+.idea/
+.codex/
+AGENTS.md
+Thumbs.db
