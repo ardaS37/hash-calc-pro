@@ -19,23 +19,8 @@ Release/
 *.cer
 *.snk
 
-# Local AI assistant configuration and instructions
+# IDE configuration
 .idea/
-.codex/
-.claude/
-.cursor/
-.windsurf/
-.continue/
-.aider/
-.roo/
-.opencode/
-.gemini/
-.qodo/
-AGENTS.md
-CLAUDE.md
-GEMINI.md
-.aider*
-
 # IDE and local tooling
 Thumbs.db
 
