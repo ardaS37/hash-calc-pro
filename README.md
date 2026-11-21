@@ -35,3 +35,12 @@ pyinstaller main.spec
 ```
 
 The repository also retains the original Visual C++/CLI solution as a historical project artifact; the Python source is the functional hash utility.
+
+<!-- project-screenshot-gallery:start -->
+## Screenshots
+
+<p>
+  <a href="docs/screenshots/readme/01-algoritma-secimi.png"><img src="docs/screenshots/readme/01-algoritma-secimi.png" alt="Hash algorithm selector" width="440"></a>
+  <a href="docs/screenshots/readme/02-sha256-sonucu.png"><img src="docs/screenshots/readme/02-sha256-sonucu.png" alt="SHA-256 result" width="440"></a>
+</p>
+<!-- project-screenshot-gallery:end -->
